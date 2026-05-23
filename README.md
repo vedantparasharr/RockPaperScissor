@@ -6,7 +6,7 @@ A classic Rock Paper Scissors game built with vanilla JavaScript, HTML, and CSS.
 
 - **Interactive Gameplay** - Play against a computer opponent with random move generation
 - **Score Tracking** - Persistent score tracking using localStorage (wins, losses, ties)
-- **Multiple Input Methods**:
+- **Multiple Input Methods**: 
   - Click buttons with mouse
   - Use keyboard shortcuts (R/Q for Rock, P/W for Paper, S/E for Scissors)
 - **Auto Play Mode** - Watch the computer play against itself automatically
